@@ -1,31 +1,25 @@
 # ===== 公网CDN源 - Cloudflare加速，国内可达 =====
 # BurningC4 - Cloudflare R2 CDN，专门针对国内优化
-https://iptv.burningc4.com/TV-IPV4.m3u
-
 # ===== iptv-org streams源 - 社区验证的公网可播放源 =====
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-
 # ===== 项目作者官方数据库 =====
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-
 # ===== 增补源 =====
 # fanmingming - IPTV源+IPv6源
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-
 # YanG-1989 - 精简高质量源
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-
 # ===== 港澳台 =====
 # suxuang - 港澳台最丰富，含4K频道
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-
 # ===== 国际库 =====
 # iptv-org 香港
-https://raw.githubusercontent.com/iptv-org/iptv/main/channels/hk.m3u
-
 # iptv-org 台湾
-https://raw.githubusercontent.com/iptv-org/iptv/main/channels/tw.m3u
+https://iptv.burningc4.com/TV-IPV4.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+
+# https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+# https://raw.githubusercontent.com/iptv-org/iptv/main/channels/hk.m3u
+# https://raw.githubusercontent.com/iptv-org/iptv/main/channels/tw.m3u
 
 [WHITELIST]
 # 白名单订阅源 - 不参与测速，始终保留在结果最前
